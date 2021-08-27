@@ -1,0 +1,9 @@
+.col-4 {
+   width: 32.33333333% !important;
+}
+
+.btn:hover {
+   background-color: blue !important;
+   color:white;
+   border-color: blue !important;
+}
